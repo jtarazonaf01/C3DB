@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['read_0',['read',['../classc3db__file__t.html#ad9b61710f20ea5a05c00c924f544c919',1,'c3db_file_t::read(uint8_t *buf, size_t len)'],['../classc3db__file__t.html#a6c4af9c4a0f088307729d06b0739555b',1,'c3db_file_t::read(size_t addr, uint8_t *buf, size_t len)']]],
+  ['read_5fcanonical_1',['read_canonical',['../classc3db__index__bucket__t.html#abc8a0f501d0f2228a820b065cd21aa89',1,'c3db_index_bucket_t']]],
+  ['read_5fhdr_2',['read_hdr',['../classc3db__file__t.html#a99ac4d7df696cbae297e6aaeb902fff3',1,'c3db_file_t']]],
+  ['read_5foverflow_5fbkt_3',['read_overflow_bkt',['../classc3db__index__bucket__t.html#ae498f31fbf785fe389542ac3a94b5aa9',1,'c3db_index_bucket_t']]],
+  ['read_5frec_4',['read_rec',['../classc3db__file__t.html#a7bf0f9ff2be87e8b34c90c296e705cb1',1,'c3db_file_t']]],
+  ['read_5frecord_5',['read_record',['../classc3db__db__file__t.html#a3491696b5abbe02e87a67725dfbd5d91',1,'c3db_db_file_t::read_record(size_t row_id)'],['../classc3db__db__file__t.html#a6d6488f103a1fe6777f6dd13ee56a4ea',1,'c3db_db_file_t::read_record(size_t row_id, c3db_db_rec_t &amp;rec)']]],
+  ['read_5fref_6',['read_ref',['../classc3db__index__ref__t.html#a82d9a88aada577b01321034f16ff5b79',1,'c3db_index_ref_t']]],
+  ['rec_5fcount_7',['rec_count',['../classc3db__file__t.html#aba7eedc30be40e3128a941af462fbec4',1,'c3db_file_t']]],
+  ['rec_5fsize_8',['rec_size',['../structc3db__cached__rec__t.html#a3cb0b0fa5c98d0bf7b402f0a1862d6ad',1,'c3db_cached_rec_t::rec_size()'],['../structc3db__rec__t.html#a746f0d31395a3007ec764c45f1cea841',1,'c3db_rec_t::rec_size()'],['../structc3db__db__rec__t.html#a702919ba5676818cdb852c262f6ed208',1,'c3db_db_rec_t::rec_size()'],['../classc3db__db__file__t.html#a88f51c14782b0e88809a305b39683693',1,'c3db_db_file_t::rec_size()'],['../classc3db__file__t.html#a4c5bf8ec0eac6e755a6e3913a0d1c612',1,'c3db_file_t::rec_size()']]],
+  ['remove_9',['remove',['../classc3db__cached__db__file__t.html#a7e34482b4abc0affe48b8dce9b2b6fb3',1,'c3db_cached_db_file_t::remove()'],['../classc3db__data__file__t.html#a98907f347b7dfc5bb4dafd2f7bff64e9',1,'c3db_data_file_t::remove()'],['../classc3db__db__t.html#a8de25be34ac55976eae97e397d8d9e9c',1,'c3db_db_t::remove(c3db_id_t id)'],['../classc3db__db__t.html#a2a68ea27bd25980843f1c26fbd453643',1,'c3db_db_t::remove(size_t idx_num, const uint8_t *value, size_t &amp;removed_count)'],['../classc3db__db__file__t.html#ae5c6a8446b7f73f1bb21252d9c9f72ae',1,'c3db_db_file_t::remove()'],['../classc3db__index__t.html#a593d0f16320b6c809d93abe466b7a21f',1,'c3db_index_t::remove(uint64_t hash, c3db_id_t last_ref)']]],
+  ['remove_5fcurrent_5fref_10',['remove_current_ref',['../classc3db__index__t.html#a8a94c9701fb11cdf5a5872524e0b2c77',1,'c3db_index_t']]],
+  ['rename_5ffile_11',['rename_file',['../classc3db__file__t.html#a6998adf70204678ab7e7f332a083a041',1,'c3db_file_t']]],
+  ['repair_5ffree_5flist_12',['repair_free_list',['../classc3db__db__file__t.html#a0a30e2143a7bb3aa5d2a5f270b3b26db',1,'c3db_db_file_t::repair_free_list(const char *base_file_name, const char *extension=&quot;.dbf&quot;)'],['../classc3db__db__file__t.html#ad89a0fec27be94e83946149af9b31145',1,'c3db_db_file_t::repair_free_list(FILE *file)'],['../classc3db__db__file__t.html#a82a49f746e0823333740f10914bcffa6',1,'c3db_db_file_t::repair_free_list()']]],
+  ['repair_5fneeded_13',['repair_needed',['../structc3db__header__t.html#aee00382c24619c2677130c038825ad1c',1,'c3db_header_t::repair_needed() const'],['../structc3db__header__t.html#a9471d45f27d77928ffa80805179a668c',1,'c3db_header_t::repair_needed(bool value)']]],
+  ['reset_5ffree_14',['reset_free',['../structc3db__header__t.html#a77f4cccf620398208610c8b591760981',1,'c3db_header_t']]],
+  ['reset_5fstate_15',['reset_state',['../structc3db__rec__t.html#a6983ddbb29c0659a80eb505364cacc00',1,'c3db_rec_t::reset_state()'],['../classc3db__db__file__t.html#a184842620c55fb27d67988a73b5a13a8',1,'c3db_db_file_t::reset_state()']]]
+];
